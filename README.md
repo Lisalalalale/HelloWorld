@@ -7,4 +7,4 @@ Mit dieser Software können sie testen, ob sie Python-Code erfolgreich ausführe
 ## Voraussetzungen
 Programm mit dem Python-Code ausgeführt werden kann, z.B PyCharm.
 ## Installationsvorgang
-Laden sie sich das Projekt als .zip-Datei herunter, entpacken es und öffnen HelloWorld.py beispielsweise in PyCharm. 
+Laden Sie sich das Projekt als .zip-Datei herunter, entpacken Sie es und öffnen Sie helloWorld.py beispielsweise in PyCharm. 
